@@ -7,7 +7,7 @@ Junior Web Developer<br>
 ##
 
 ### __SKILLS__
-<div style="display: inline-block" >Those are the technologies that I'm learning and using to become a developer.    
+<div style="display: inline-block" >Those are the technologies that I'm learning and using to become a better developer.    
  <br><br>
     <img align="center" alt="Alvaro-Php" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="Php" />
 <img align="center" alt="Alvaro-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
@@ -22,7 +22,7 @@ Junior Web Developer<br>
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dka98&show_icons=true&theme=dark">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dka98&langs_count=8e&theme=dark"
+<!--<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dka98&langs_count=8e&theme=dark"-->
 </div>
 
 
