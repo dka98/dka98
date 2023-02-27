@@ -2,7 +2,7 @@
 
 ### Hi, I'm Álvaro Magalhães<br> 
 
-Junior Web Developer<br>
+Full stack Developer<br>
 
 ##
 
